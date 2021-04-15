@@ -1,0 +1,10 @@
+ramyareddy775
+ramyareddy9666
+
+git remote add origin git@github.com:venkatit12345/r.git
+
+git remote add origin https://github.com/ramyareddy775/welcome.git
+git remote add origin https://github.com/ramyareddy775/test.git
+https://github.com/ramyareddy775/test.git
+git push -u origin master
+https://github.com/ramyareddy775/test.git
